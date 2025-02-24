@@ -1,3 +1,6 @@
 helllooooooooooo
 how are you?
-are you fine
+<<<<<<< HEAD
+are you fiine
+=======
+
